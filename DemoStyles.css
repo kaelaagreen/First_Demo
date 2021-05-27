@@ -1,6 +1,28 @@
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#input{
+  width: 346px;
+  height: 34px;
+  border-color: rgb(78, 78, 78);
+}
+button{
+  width: 175px;
+  height: 45px;
+  background-color: aquamarine;
+  color:cornsilk;
+  border: none;
+  font-size: 2ch;
+  margin-top: 20px;
+}
 .mainBG{
     background-color: red;
 }
 .innerBox{
   background: gray;
+  margin: 0 auto 0 auto;
+}
+.signIn{
+  text-align: center;
 }
